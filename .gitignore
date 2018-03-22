@@ -1,0 +1,7 @@
+*.swp
+*~
+*.zip
+*.xpi
+*.oex
+*.crx
+.DS_Store

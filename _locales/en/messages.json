@@ -1,0 +1,66 @@
+{
+    "extName":{
+        "message":"fbclean",
+        "description":"Extension name"
+    },
+    "extShortName":{
+        "message":"fbclean",
+        "description":"Extension short name"
+    },
+    "extDescription":{
+        "message":"Remove ads, suggested pages and posts on News feed of Facebook.",
+        "description":"Extension description"
+    },
+    "extSettings":{
+        "message":"fbclean settings",
+        "description":"settings"
+    },
+    "optRemoveAds":{
+        "message":"Hide advertisments",
+        "description":""
+    },
+    "optRemoveAdsDesc":{
+        "message":"Hide advertisments on the right panel.",
+        "description":""
+    },
+    "optRemoveRecommendedPosts":{
+        "message":"Hide sponsored posts",
+        "description":""
+    },
+    "optRemoveRecommendedPostsDesc":{
+        "message":"Hide sponsored posts on Facebook news feed.",
+        "description":""
+    },
+    "optCollaspeRightPanel":{
+        "message":"Collaspe right panel content",
+        "description":""
+    },
+    "optCollaspeRightPanelDesc":{
+        "message":"",
+        "description":""
+    },
+    "optRemoveGameRecommend":{
+        "message":"Hide recommended games",
+        "description":""
+    },
+    "optRemoveGameRecommendDesc":{
+        "message":"Hide recommended games on the top of chat bar.",
+        "description":""
+    },
+    "optAutoReport":{
+        "message":"Automatically report error",
+        "description":""
+    },
+    "optAutoReportDesc":{
+        "message":"Automatically report error of this extension to developer, so developer can fix it as soon as possible.",
+        "description":""
+    },
+    "optEvent":{
+        "message": "Remove events",
+        "description": ""
+    },
+    "optEventDesc":{
+        "message": "Removes events your friends are going to from your feed.",
+        "description": ""
+    }
+}

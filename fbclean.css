@@ -1,0 +1,11 @@
+.fcleanHide {
+    display: none;
+}
+
+.fcleanClickable {
+    cursor: pointer;
+}
+
+.fcleanTextCenter {
+    text-align: center;
+}
