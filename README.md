@@ -8,6 +8,7 @@ Easiest solution would be to delete Facebook, but I did this instead.
 
 * No tracking
 * No bitcoin mining
+* No ethereum mining
 
 ## Usage
 
